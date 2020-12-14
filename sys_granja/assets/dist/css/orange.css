@@ -1,0 +1,33 @@
+fieldset.fieldset_css {border: 1px solid #ddd !important;padding: 0 1.4em 1.4em 1.4em !important;margin: 0 0 1.5em 0 !important;-webkit-box-shadow:  0px 0px 0px 0px #000;box-shadow:  0px 0px 0px 0px #000;}
+legend.fieldset_css {font-size: 1.1em !important;font-weight: bold !important;text-align: left !important;width:auto;padding:0 10px;border-bottom:none;margin-bottom: 3px !important;line-height:15px !important; }
+.loadingSelect{ background: white url("../../assets/img/_loading.gif") right center no-repeat;}
+.class_dialog{background-color: transparent !important;outline-color: transparent;border:none;padding:0px;margin:0px;border-color: transparent !important;}
+.gif_loading{vertical-align: middle;text-align: center;height: 50px;border-radius: 15px;}
+.ui-autocomplete-loading {background: white url("../../../../assets/img/loading.gif") right center no-repeat;}
+.mayusc{text-transform: uppercase;}
+.tablaEstilo thead tr:first-child {font-weight: bold !important;text-align: center !important;background-color: #3c8dbc !important;color:white;}
+.tablaEstilo tr td{border-style: solid;border-width: thin;border-color: #F2F2F2;}
+.saldotabla th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+.saldotabla table {
+  border-collapse: collapse;
+  width: 100%;
+}
+.del{color:red;cursor:pointer;}
+.der{text-align: right;}
+input:read-only{background-color: white}
+.tMError   .ui-dialog-titlebar   {background:#dd4b39;}
+.tMBlue    .ui-dialog-titlebar   {background:#3c8dbc;}
+.tMWarning .ui-dialog-titlebar {background:#f39c12;}
+.tMSuccess .ui-dialog-titlebar {background:#00a65a;}
+.ui-dialog-titlebar{font-size: 110% !important;color: #FFFFFF !important;}
+.ui-dialog .ui-dialog-buttonpane {text-align: center !important;}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {float: none !important;}
+.buttonSuccess{background-color: #00a65a !important;color:#FFFFFF !important;font-weight: bolder !important;}
+.buttonError .ui-button{background-color:   #dd4b39 !important;color:#FFFFFF !important;font-weight: bolder !important;}
+.buttonWarning .ui-button{background-color: #f39c12 !important;color:#FFFFFF !important;font-weight: bolder !important;}
+.buttonBlue .ui-button{background-color: #3c8dbc !important;color:#FFFFFF !important;font-weight: bolder !important;}
+.content_loadind{text-align: center !important;}
